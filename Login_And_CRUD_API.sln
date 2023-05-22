@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login_And_CRUD_API", "Login_And_CRUD_API\Login_And_CRUD_API.csproj", "{ABB003F4-198B-4124-9DCA-14B62060F3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB003F4-198B-4124-9DCA-14B62060F3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB003F4-198B-4124-9DCA-14B62060F3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB003F4-198B-4124-9DCA-14B62060F3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB003F4-198B-4124-9DCA-14B62060F3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78951820-FAEA-4C54-B0AB-8D4A0F20859B}
+	EndGlobalSection
+EndGlobal
